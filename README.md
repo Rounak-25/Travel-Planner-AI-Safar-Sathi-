@@ -31,7 +31,7 @@ Check out the live demo [﻿here](https://travelplannerai.online/).
 ## Installation
 To run the Travel Planner AI, follow these steps:
 
-1. Clone the repository:git clone [﻿https://github.com/hardikverma22/travel-planner-ai](https://github.com/hardikverma22/travel-planner-ai) 
+1. Clone the repository:git clone [(https://github.com/Rounak-25/Travel-Planner-AI-Safar-Sathi-.git)]
 2. Navigate to the project directory:cd travel-planner-ai
 3. Install the dependencies:npm install
 4. Start the development server:npm run dev
